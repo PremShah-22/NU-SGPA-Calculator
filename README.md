@@ -8,7 +8,7 @@
 ---
 
 ## 🌐 Live Website
-👉 https://premshah22.github.io/NU-SGPA-Calculator/
+👉 https://PremShah-22.github.io/NU-SGPA-Calculator/
 
 ---
 
